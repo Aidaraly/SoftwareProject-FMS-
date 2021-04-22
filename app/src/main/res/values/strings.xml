@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Finance Management System</string>
+    <string name="greet_textview">Welcome!</string>
+    <string name="sign_in_btn">Sign in</string>
+    <string name="login_text">Login</string>
+    <string name="password_text">Password</string>
+
+    <string name="date">Date</string>
+    <string name="account">Account</string>
+    <string name="category">Category</string>
+    <string name="sum">Amount</string>
+    <string name="contragent">Partner</string>
+    <string name="project">Project</string>
+    <string name="description">Description</string>
+    <string name="note">Notice</string>
+    <string name="hintSum">2000с</string>
+    <string name="accountfrom">From where</string>
+    <string name="accountto">Where to</string>
+    <string name="date_from">From</string>
+    <string name="date_to">To</string>
+
+    <string name="transactions">Transactions</string>
+    <string name="example_mainScreen">Rent for office</string>
+    <string name="example_main_source">Total budget</string>
+    <string name="example_main_sum">-14,500</string>
+    <string name="profile_nav">My profile</string>
+    <string name="home_nav">Main screen</string>
+    <string name="newData_nav">Add new data</string>
+    <string name="statistics_nav">Statistics</string>
+    <string name="settings_nav">Settings</string>
+    <string name="full">All</string>
+    <string name="incomes">Income</string>
+    <string name="expenses">Costs</string>
+    <string name="transfer">Transfer</string>
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <string name="save_btn">Add</string>
+    <string name="filter_btn">Apply</string>
+    <string name="no_records">No data</string>
+
+    <string name="selectProject">Without a project</string>
+    <string name="selectCounterPartner">Choose an accountant</string>
+    <string name="mistake">Data loading error has occurred</string>
+    <string name="alertMessage_sum">Enter the amount</string>
+    <string name="alertMessage_date">Enter the date</string>
+    <string name="alertMessage_account">Select account</string>
+    <string name="alertMessage_categry">Select income category</string>
+    <string name="error">An error has occurred</string>
+    <string name="saved_data">Data saved</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tags">Теги</string>
+    <string name="add_new_settings">Add new</string>
+    <string name="transaction_type">Transaction type</string>
+    <string name="fms">Finance Management \nSystem</string>
+    <string name="pasword_forgot">Forgot your password?</string>
+    <string name="reset_password">Reset the password</string>
+    <string name="reset_password_description">Enter your email to reset your password</string>
+    <string name="auth">Login</string>
+    <string name="login_no">Enter login</string>
+    <string name="password_no">enter password</string>
+    <string name="wrong_login">Login or password entered incorrectly</string>
+    <string name="same_accounts">Select different accounts</string>
+    <string name="wrong_email">Incorrectly entered mail or such does not exist</string>
+
+    <string-array name="transactions_type">
+        <item>All Transactions</item>
+        <item>Доходы</item>
+        <item>Costs</item>
+        <item>Translations</item>
+    </string-array>
+</resources>
